@@ -9,7 +9,7 @@
   <!-- Insignias (Badges) personalizables -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,streamlit" alt="Tecnologías" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,VScode,pycharm" alt="Tecnologías" />
   </a>
 </p>
 
