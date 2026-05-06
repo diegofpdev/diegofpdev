@@ -3,7 +3,7 @@
   <h1>🚀 Comment Tool </h1>
 
   <p>
-    <em>Una frase corta, atractiva y directa que explique qué problema resuelve tu proyecto.</em>
+    <em>Las facilidad de documentar una llamada de un call center a un par de clicks de distancia</em>
   </p>
 
   <!-- Insignias (Badges) personalizables -->
@@ -37,21 +37,8 @@
 
 ## 💡 Acerca del Proyecto
 
-Aquí debes dar un contexto más amplio. ¿Por qué creaste este proyecto? ¿Qué lo hace diferente a otras soluciones existentes? Puedes incluir un par de capturas de pantalla o un GIF de tu aplicación funcionando en esta sección.
-
+Comment Tool, nacio de una experiencia como agente de atencion al cliente donde de cada llamada tenia que ser documentada a detalle, quien llamaba, motivo, explicacion y resolucion. No muchos de tenemos la habilidad de escribir 50 palabras por minuto o mas, asi que pense, por que no crear un sistema donde ya tenga los requerimientos necesarios para la documentacion adecuada de cada llamada, quien llama, motivo, explicacion y resolucion, esto reducidiria el tiempo en llamada en un 10% hasta un 30%, y de ahi nacion la Comment Tool, capaz de adaptarse a cada agente y sobretodo a cada cliente. 
 ## 🛠️ Tecnologías
-
-Las herramientas principales utilizadas para construir el proyecto:
-
-*   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-*   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-*   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## ⚙️ Instalación
-
-Instrucciones paso a paso para configurar el entorno de desarrollo local.
-
-1. Obtén una API Key gratis en [https://ejemplo.com](https://ejemplo.com)
-2. Clona el repositorio
-   ```sh
-   git clone [https://github.com/tu-usuario/tu-proyecto.git](https://github.com/tu-usuario/tu-proyecto.git)
+*   ![python]
+*   ![streamlit]
+*   ![VScode]
