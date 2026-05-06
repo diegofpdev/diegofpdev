@@ -1,8 +1,6 @@
 <div align="center">
-  <!-- Reemplaza la URL de la imagen con el logo de tu proyecto -->
-  <img src="https://via.placeholder.com/150/000000/FFFFFF/?text=Logo+Aqui" alt="Logo del Proyecto" width="150">
 
-  <h1>🚀 Nombre de tu Proyecto Épico</h1>
+  <h1>🚀 Comment Tool </h1>
 
   <p>
     <em>Una frase corta, atractiva y directa que explique qué problema resuelve tu proyecto.</em>
