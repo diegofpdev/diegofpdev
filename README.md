@@ -3,13 +3,13 @@
   <h1>🚀 Comment Tool </h1>
 
   <p>
-    <em>Las facilidad de documentar una llamada de un call center a un par de clicks de distancia</em>
+    <em>Documentacion detallada a solo unos clicks de distancia</em>
   </p>
 
   <!-- Insignias (Badges) personalizables -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,streamlit" alt="Tecnologías" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,streamlit" alt="Tecnologías" />
   </a>
 </p>
 
