@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Comment Tool for a call center and a restaurant online menu**
 
-- 🌱 I’m currently learning **Automatization with Python and, frontend with CSS**
+- 🌱 I’m currently learning **Automatization with Python, JavaScript, HTML and CSS**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
